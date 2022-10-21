@@ -1,20 +1,4 @@
-// import React from "react";
 
-// const Main = () => {
-//   return (
-//     <div className="w-full h-screen text-center">
-//       <div className="max-w-[1240px] w-full mx-auto justify-center items-center">
-//         <div>
-//           <p className="uppercase text-sm tracking-widest text-black">
-//             Hello Guys
-//           </p>
-//         </div>
-//       </div>
-//     </div>
-//   );
-// };
-
-// export default Main;
 
 import Link from "next/link";
 import React from "react";
