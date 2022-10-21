@@ -1,5 +1,5 @@
 import Head from "next/head";
-import Image from "next/image";
+
 import About from "../components/About";
 import NewContact from "../components/NewContact1";
 import Main from "../components/Main";
