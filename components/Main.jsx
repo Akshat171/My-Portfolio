@@ -28,7 +28,7 @@ const Main = () => {
   return (
     <div id="home" className="flex w-full h-screen text-center">
       <div>
-        <img src={Age}></img>
+        <Image src={Age}></Image>
       </div>
       <div className="max-w-[1240px] w-full h-full mx-auto p-2 flex justify-center items-center">
         <div>
