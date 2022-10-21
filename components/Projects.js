@@ -1,5 +1,5 @@
-import Image from "next/image";
-import Link from "next/link";
+
+
 import React from "react";
 import propertyImg from "../public/assets/projects/blog.png";
 import cryptoImg from "../public/assets/projects/blog.png";
